@@ -1,0 +1,4 @@
+---
+# vars file for K8s-Master
+
+pod_cidr_network: "10.240.0.0/16"
